@@ -3,5 +3,3 @@
 require 'greeter'
  
 Greeter.hello
-Greeter.bye
-Sneeze.hachoo

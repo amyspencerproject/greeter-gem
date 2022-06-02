@@ -15,10 +15,9 @@ Gem::Specification.new do |s|
  
     s.homepage    = 'https://github.com/amyspencerproject'
  
-    s.license     = 'MIT' 
-    
-    s.bindir      = 'exe'  
+    s.license     = 'MIT'
+
+    s.bindir      = 'exe'
     
     s.executables << 'greeter'
 end
-
